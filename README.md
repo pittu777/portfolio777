@@ -6,4 +6,4 @@
 
 <h2>live demo</h2>
 
-<a href="https://pittu777.github.io/portfolio777/" target="_blank" style="text-decoration:none;"</a>
+<a href="https://pittu777.github.io/portfolio777/" target="_blank"</a>
